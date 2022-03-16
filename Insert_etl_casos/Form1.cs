@@ -49,7 +49,7 @@ namespace Insert_etl_casos
             int i=1;
 
             while (i<=500000) { 
-            string cadena = "insert into crm_casos values (" + i + "," + i + ",'" + mensaje +   vacio + i + "','" + nombre + "','" + correo + "','" + periodo + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "')";
+            string cadena = "insert into crm_ev_casos values (" + i + "," + i + ",'" + mensaje +   vacio + i + "','" + nombre + "','" + correo + "','" + periodo + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "','" + vacio + "')";
             SqlCommand comando = new SqlCommand(cadena, conexion);
             comando.ExecuteNonQuery();
                 i++;
