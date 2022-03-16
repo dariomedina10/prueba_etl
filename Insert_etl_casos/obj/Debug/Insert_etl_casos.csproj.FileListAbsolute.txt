@@ -1,0 +1,10 @@
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.csprojAssemblyReference.cache
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.Form1.resources
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.Properties.Resources.resources
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.csproj.GenerateResource.cache
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.csproj.CoreCompileInputs.cache
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\bin\Debug\Insert_etl_casos.exe.config
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\bin\Debug\Insert_etl_casos.exe
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\bin\Debug\Insert_etl_casos.pdb
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.exe
+C:\Users\dario\source\repos\Insert_etl_casos\Insert_etl_casos\obj\Debug\Insert_etl_casos.pdb
