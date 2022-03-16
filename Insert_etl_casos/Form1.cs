@@ -36,13 +36,14 @@ namespace Insert_etl_casos
 
         private void Button1_Click(object sender, EventArgs e)
         {
-         
-            SqlConnection conexion = new SqlConnection(@"Data Source=DESKTOP-R11EBV1\SQLEXPRESS03;Initial Catalog=BD_CRM_INTERMEDIO_DES;Integrated Security=True");
+
+            // SqlConnection conexion = new SqlConnection(@"Data Source=DESKTOP-R11EBV1\SQLEXPRESS03;Initial Catalog=BD_CRM_INTERMEDIO_DES;Integrated Security=True");
+            SqlConnection conexion = new SqlConnection(@"Data Source=10.145.39.128;Initial Catalog=BD_CRM_INTERMEDIO_DES;User ID=pro-1to1;Password=kKnMm8Hh; Integrated Security=True");
             conexion.Open();
            string nombre = "Juan perez";
            string mensaje = "Mensaje Nro";
             string correo = "dariomedina10@gmail.com";
-            string correo2 = "ysma@gmail.com";
+         
             string periodo = "2022";
             string vacio = "";
             int i=1;
